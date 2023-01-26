@@ -8,7 +8,7 @@ export default function handler(req, res) {
     res.status(200).json({
       name: "Crypto Dev #" + tokenId,
       description: "Crypto Dev is a collection of developers in crypto",
-      image: image_url + tokenId + ".svg",
+      image: image_url + tokenId + ".jpg",
     });
   }
   
