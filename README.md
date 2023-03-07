@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![nft_project](https://user-images.githubusercontent.com/50380290/223507165-cc751f78-d188-4a06-9aad-1d326125f43c.png)
 
 ## Getting Started
 
